@@ -1,2 +1,3 @@
 # gcp-functions
-gcf is added
+gcf is added made changes with slack
+
